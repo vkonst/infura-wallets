@@ -1,0 +1,29 @@
+{
+  "name": "@infura-wallets",
+  "version": "0.0.1",
+  "description": "Easily create @truffle/hdwallet-provider for Infura",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkonst/infura-wallets.git"
+  },
+  "keywords": [
+    "HDWalletProvider",
+    "infura"
+  ],
+  "author": "vadim.konstantinov@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkonst/infura-wallets/issues"
+  },
+  "homepage": "https://github.com/vkonst/infura-wallets#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.28"
+  }
+}
